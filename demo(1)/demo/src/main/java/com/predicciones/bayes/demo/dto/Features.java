@@ -22,6 +22,6 @@ public class Features {
     private byte fins;
     private byte legs;
     private byte tail;
-    private byte domestic;
-    private byte catsize;
+    private int domestic;
+    private int catsize;
 }
